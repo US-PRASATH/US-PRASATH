@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm U.S.Prasath </h1>
-<h3 align="center">A Passionate Developer, Currently pursuing B.Tech Computer Science and Business Systems degree at RMK Engineering College</h3>
+<h3 align="center">A Passionate Developer, Currently pursuing B.Tech. Computer Science and Business Systems degree at RMK Engineering College</h3>
 
 
 - 🔭 Exploring different areas
