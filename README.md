@@ -27,7 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=US-PRASATH&show_icons=true&locale=en" alt="US-PRASATH" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=us_prasath&" alt="US-PRASATH" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=US-PRASATH" alt="US-PRASATH" /></p>
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/USPrasath?theme=light&font=Marcellus)
 
