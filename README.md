@@ -29,8 +29,6 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=US-PRASATH" alt="US-PRASATH" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=US-PRASATH)](https://git.io/streak-stats)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/USPrasath?theme=light&font=Marcellus)
 
 <!--
