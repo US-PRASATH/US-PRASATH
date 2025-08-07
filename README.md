@@ -1,15 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm U.S.Prasath </h1>
+<h1 align="center">Hi 👋, I'm Prasath U S </h1>
 <h3 align="center">A Passionate Developer, Currently pursuing B.Tech. Computer Science and Business Systems degree at RMK Engineering College</h3>
 
 
 - 🔭 Exploring different areas
 
-- 🌱 I’m currently learning **Machine Learning** and **Android Development**
-
 - 👯 I’m looking to collaborate on **building projects**
-
-- 🤔 I’m looking for help with **what i am learning 😅**
 
 - 📫 How to reach me **usprasath2004159@gmail.com**
 
